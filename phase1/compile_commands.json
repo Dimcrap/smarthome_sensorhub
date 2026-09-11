@@ -1,0 +1,878 @@
+[
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/CDC.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/HardwareSerial.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/HardwareSerial0.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/HardwareSerial1.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/HardwareSerial2.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/HardwareSerial3.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/IPAddress.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/PluggableUSB.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/Print.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/Stream.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/Tone.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/USBCore.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/WInterrupts.c.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/WMath.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/WString.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/abi.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/hooks.c.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/main.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/new.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring.c.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring_analog.c.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring_digital.c.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -mmcu=atmega328p -x assembler-with-cpp -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs -c -o .pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.S.o /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.S.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.c.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring_shift.c.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/libe07/Adafruit Unified Sensor/Adafruit_Sensor.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/Adafruit Unified Sensor/Adafruit_Sensor.cpp\"",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Adafruit Unified Sensor/Adafruit_Sensor.cpp",
+        "output": ".pio/build/nanoatmega328/libe07/Adafruit Unified Sensor/Adafruit_Sensor.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/lib791/DHT sensor library/DHT.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/DHT sensor library\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/DHT sensor library/DHT.cpp\"",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/DHT sensor library/DHT.cpp",
+        "output": ".pio/build/nanoatmega328/lib791/DHT sensor library/DHT.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/lib791/DHT sensor library/DHT_U.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/DHT sensor library\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/DHT sensor library/DHT_U.cpp\"",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/DHT sensor library/DHT_U.cpp",
+        "output": ".pio/build/nanoatmega328/lib791/DHT sensor library/DHT_U.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/Arduino/HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/Arduino/HardwareSerial.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/Arduino/HardwareSerial.cpp",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/Arduino/HardwareSerial.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/abi/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/abi/abi.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/abi/abi.cpp",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/abi/abi.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/bad_alloc.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/bad_alloc.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/bad_alloc.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/bad_alloc.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/bad_array_new.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/bad_array_new.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/bad_array_new.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/bad_array_new.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/bad_cast.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/bad_cast.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/bad_cast.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/bad_cast.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/bad_typeid.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/bad_typeid.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/bad_typeid.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/bad_typeid.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/bits/ios.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/bits/ios.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/bits/ios.cpp",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/bits/ios.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++11/functexcept.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++11/functexcept.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++11/functexcept.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++11/functexcept.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++11/functional.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++11/functional.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++11/functional.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++11/functional.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++11/hashtable_c++0x.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++11/hashtable_c++0x.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++11/hashtable_c++0x.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++11/hashtable_c++0x.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++98/compatibility.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++98/compatibility.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++98/compatibility.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++98/compatibility.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++98/istream.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++98/istream.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++98/istream.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++98/istream.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++98/stdexcept.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++98/stdexcept.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++98/stdexcept.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++98/stdexcept.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++98/tree.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++98/tree.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/c++98/tree.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/c++98/tree.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/char_traits.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/char_traits.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/char_traits.cpp",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/char_traits.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/class_type_info.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/class_type_info.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/class_type_info.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/class_type_info.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/codecvt.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/codecvt.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/codecvt.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/codecvt.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/c_locale.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/c_locale.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/c_locale.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/c_locale.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/codecvt_members.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/codecvt_members.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/codecvt_members.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/codecvt_members.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/collate_members.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/collate_members.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/collate_members.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/collate_members.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/ctype_members.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/ctype_members.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/ctype_members.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/ctype_members.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/messages_members.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/messages_members.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/messages_members.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/messages_members.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/monetory_members.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/monetory_members.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/monetory_members.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/monetory_members.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/numeric_members.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/numeric_members.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/numeric_members.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/numeric_members.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/time_members.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/time_members.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/locale/time_members.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/locale/time_members.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/os/ctype_configure_char.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/os/ctype_configure_char.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/config/os/ctype_configure_char.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/config/os/ctype_configure_char.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ctype.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ctype.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ctype.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ctype.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/dyncast.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/dyncast.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/dyncast.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/dyncast.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_alloc.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_alloc.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_alloc.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_alloc.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_arm.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_arm.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_arm.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_arm.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_aux_runtime.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_aux_runtime.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_aux_runtime.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_aux_runtime.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_call.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_call.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_call.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_call.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_catch.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_catch.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_catch.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_catch.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_exception.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_exception.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_exception.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_exception.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_globals.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_globals.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_globals.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_globals.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_personality.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_personality.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_personality.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_personality.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_term_handler.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_term_handler.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_term_handler.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_term_handler.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_terminate.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_terminate.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_terminate.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_terminate.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_throw.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_throw.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_throw.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_throw.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_unex_handler.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_unex_handler.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/eh_unex_handler.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/eh_unex_handler.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/enum_type_info.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/enum_type_info.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/enum_type_info.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/enum_type_info.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/exception.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/exception.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/exception.cpp",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/exception.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/function_type_info.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/function_type_info.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/function_type_info.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/function_type_info.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/functional.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/functional.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/functional.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/functional.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/fundamental_type_info.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/fundamental_type_info.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/fundamental_type_info.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/fundamental_type_info.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ios.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ios.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ios.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ios.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ios_failure.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ios_failure.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ios_failure.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ios_failure.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ios_init.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ios_init.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ios_init.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ios_init.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ios_locale.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ios_locale.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ios_locale.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ios_locale.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/istream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/istream.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/istream.cpp",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/istream.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/libsupc++/guard.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/libsupc++/guard.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/libsupc++/guard.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/libsupc++/guard.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/libsupc++/hash_bytes.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/libsupc++/hash_bytes.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/libsupc++/hash_bytes.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/libsupc++/hash_bytes.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/locale.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/locale.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/locale.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/locale.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/locale_facets.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/locale_facets.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/locale_facets.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/locale_facets.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/locale_init.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/locale_init.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/locale_init.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/locale_init.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/new.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/new.cpp",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/new.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/new_handler.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/new_handler.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/new_handler.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/new_handler.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/new_opvnt.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/new_opvnt.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/new_opvnt.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/new_opvnt.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/num2char.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/num2char.c",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/num2char.c",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/num2char.c.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ostream_helpers.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ostream_helpers.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/ostream_helpers.cpp",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/ostream_helpers.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/pbase_type_info.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/pbase_type_info.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/pbase_type_info.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/pbase_type_info.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/pmem_type_info.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/pmem_type_info.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/pmem_type_info.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/pmem_type_info.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/pointer_type_info.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/pointer_type_info.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/pointer_type_info.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/pointer_type_info.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/pthread.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/pthread.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/pthread.cpp",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/pthread.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/shared/hashtable-aux.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/shared/hashtable-aux.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/shared/hashtable-aux.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/shared/hashtable-aux.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/si_class_type_info.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/si_class_type_info.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/si_class_type_info.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/si_class_type_info.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/swprintf.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/swprintf.c",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/swprintf.c",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/swprintf.c.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/tinfo.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/tinfo.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/tinfo.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/tinfo.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/vmi_class_type_info.cc.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/vmi_class_type_info.cc",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/Cpp_Standard_Library/src/vmi_class_type_info.cc",
+        "output": ".pio/build/nanoatmega328/lib7ef/Cpp_Standard_Library/vmi_class_type_info.cc.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/ArduinoSTL.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/ArduinoSTL.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/ArduinoSTL.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/ArduinoSTL.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/abi/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/abi/abi.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/abi/abi.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/abi/abi.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/algorithm.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/algorithm.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/algorithm.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/algorithm.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/associative_base.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/associative_base.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/associative_base.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/associative_base.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/bitset.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/bitset.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/bitset.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/bitset.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/char_traits.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/char_traits.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/char_traits.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/char_traits.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/complex.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/complex.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/complex.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/complex.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_op.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/del_op.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/del_op.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_op.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_opnt.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/del_opnt.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/del_opnt.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_opnt.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_ops.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/del_ops.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/del_ops.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_ops.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_opv.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/del_opv.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/del_opv.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_opv.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_opvnt.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/del_opvnt.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/del_opvnt.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_opvnt.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_opvs.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/del_opvs.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/del_opvs.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/del_opvs.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/deque.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/deque.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/deque.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/deque.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/eh_alloc.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/eh_alloc.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/eh_alloc.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/eh_alloc.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/eh_globals.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/eh_globals.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/eh_globals.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/eh_globals.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/exception.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/exception.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/exception.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/exception.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/func_exception.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/func_exception.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/func_exception.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/func_exception.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/iomanip.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/iomanip.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/iomanip.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/iomanip.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/ios.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/ios.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/ios.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/ios.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/iostream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/iostream.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/iostream.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/iostream.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/istream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/istream.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/istream.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/istream.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/iterator.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/iterator.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/iterator.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/iterator.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/limits.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/limits.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/limits.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/limits.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/list.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/list.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/list.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/list.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/locale.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/locale.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/locale.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/locale.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/map.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/map.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/map.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/map.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/new_handler.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/new_handler.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/new_handler.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/new_handler.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/new_op.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/new_op.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/new_op.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/new_op.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/new_opnt.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/new_opnt.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/new_opnt.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/new_opnt.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/new_opv.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/new_opv.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/new_opv.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/new_opv.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/new_opvnt.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/new_opvnt.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/new_opvnt.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/new_opvnt.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/numeric.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/numeric.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/numeric.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/numeric.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/ostream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/ostream.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/ostream.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/ostream.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/ostream_helpers.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/ostream_helpers.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/ostream_helpers.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/ostream_helpers.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/queue.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/queue.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/queue.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/queue.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/set.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/set.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/set.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/set.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/sstream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/sstream.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/sstream.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/sstream.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/stack.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/stack.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/stack.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/stack.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/stdexcept.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/stdexcept.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/stdexcept.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/stdexcept.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/streambuf.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/streambuf.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/streambuf.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/streambuf.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/string.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/string.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/string.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/string.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/support.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/support.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/support.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/support.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/typeinfo.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/typeinfo.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/typeinfo.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/typeinfo.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/utility.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/utility.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/utility.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/utility.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/valarray.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/valarray.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/valarray.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/valarray.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib9dc/ArduinoSTL/vector.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/ArduinoSTL/src/vector.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/ArduinoSTL/src/vector.cpp",
+        "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/vector.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/src/dhthandler.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src \"-I.pio/libdeps/nanoatmega328/DHT sensor library\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs src/dhthandler.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "src/dhthandler.cpp",
+        "output": ".pio/build/nanoatmega328/src/dhthandler.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/src/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I.pio/libdeps/nanoatmega328/ArduinoSTL/src -I.pio/libdeps/nanoatmega328/Cpp_Standard_Library/src \"-I.pio/libdeps/nanoatmega328/DHT sensor library\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs src/main.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "src/main.cpp",
+        "output": ".pio/build/nanoatmega328/src/main.cpp.o"
+    }
+]

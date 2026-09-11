@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "phas1",
+			"path": "../../../../Documents/PlatformIO/Projects/phas1"
+		},
+		{
+			"name": "phase1",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
