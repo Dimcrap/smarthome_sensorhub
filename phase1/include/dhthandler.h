@@ -7,9 +7,17 @@
 
 class dhthandler{
     int dpin;
-    DHT * c_dht;
-    //std::unique_ptr<DHT> dhtptr;
+    DHT * dht;
+    float temper{0},hum{0};
+    
+    
     public:
-        dhthandler();
+        bool infarenheit{false};
+
+        dhthandler(int digitalpin);
+        ~dhthandler();
+        void start();
+        void defineTemp();
+        void defineHumitdity();
 
 };
