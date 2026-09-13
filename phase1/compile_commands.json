@@ -450,13 +450,31 @@
         "output": ".pio/build/nanoatmega328/lib9dc/ArduinoSTL/vector.cpp.o"
     },
     {
-        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/src/dhthandler.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I.pio/libdeps/nanoatmega328/ArduinoSTL/src \"-I.pio/libdeps/nanoatmega328/DHT sensor library\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs src/dhthandler.cpp",
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libdae/Wire/Wire.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src/Wire.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src/Wire.cpp",
+        "output": ".pio/build/nanoatmega328/libdae/Wire/Wire.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/libdae/Wire/utility/twi.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs /home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src/utility/twi.c",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": "/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src/utility/twi.c",
+        "output": ".pio/build/nanoatmega328/libdae/Wire/utility/twi.c.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libbd5/BH1750/BH1750.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/BH1750/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/BH1750/src/BH1750.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
+        "file": ".pio/libdeps/nanoatmega328/BH1750/src/BH1750.cpp",
+        "output": ".pio/build/nanoatmega328/libbd5/BH1750/BH1750.cpp.o"
+    },
+    {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/src/dhthandler.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I.pio/libdeps/nanoatmega328/BH1750/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src -I.pio/libdeps/nanoatmega328/ArduinoSTL/src \"-I.pio/libdeps/nanoatmega328/DHT sensor library\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs src/dhthandler.cpp",
         "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
         "file": "src/dhthandler.cpp",
         "output": ".pio/build/nanoatmega328/src/dhthandler.cpp.o"
     },
     {
-        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/src/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I.pio/libdeps/nanoatmega328/ArduinoSTL/src \"-I.pio/libdeps/nanoatmega328/DHT sensor library\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs src/main.cpp",
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/src/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I.pio/libdeps/nanoatmega328/BH1750/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src -I.pio/libdeps/nanoatmega328/ArduinoSTL/src \"-I.pio/libdeps/nanoatmega328/DHT sensor library\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs src/main.cpp",
         "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase1",
         "file": "src/main.cpp",
         "output": ".pio/build/nanoatmega328/src/main.cpp.o"

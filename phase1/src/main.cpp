@@ -3,6 +3,7 @@
 #include "HardwareSerial.h"
 #include "dhthandler.h"
 #include "pirhandler.h"
+#include "lightsensorhandler.h"
 
 
 
@@ -12,6 +13,8 @@ int led{1},dhtdata{12},pirsensor(A4);
 
 dhthandler dht_o(dhtdata);
 pirhandler pir(pirsensor);
+lighsensorhandler  lightsensor;
+
 
 void setup() {
 
@@ -19,12 +22,13 @@ void setup() {
   pinMode(led, OUTPUT);
   dht_o.start();
   pir.setpinsmode();
+  lightsensor.setup();
 
 }
 
 void loop() {
   
-    pir.checkOnsensor();
+    .lightsensor.getlightinfo();
     
     
     delay(500);
