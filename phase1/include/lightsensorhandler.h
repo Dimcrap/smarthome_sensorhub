@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <BH1750.h>
-#include <Wire.h>
+//#include <Wire.h>
 
 
 

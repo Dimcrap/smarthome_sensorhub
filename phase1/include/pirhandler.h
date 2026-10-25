@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <avr/io.h>
 
 class pirhandler{
     int buzzer{0},senser;
@@ -16,6 +17,7 @@ class pirhandler{
         };
         void setpinsmode(){
             pinMode(senser,INPUT);
+            PIND
         };
         void checkOnsensor(){
             int state{analogRead(senser)};
