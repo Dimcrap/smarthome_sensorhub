@@ -13,7 +13,7 @@ int led{1},dhtdata{12},pirsensor(A4);
 
 dhthandler dht_o(dhtdata);
 pirhandler pir(pirsensor);
-lighsensorhandler  lightsensor;
+lighsensorhandler lightsensor;
 
 
 void setup() {
@@ -28,7 +28,7 @@ void setup() {
 
 void loop() {
   
-    .lightsensor.getlightinfo();
+    lightsensor.getlightinfo();
     
     
     delay(500);

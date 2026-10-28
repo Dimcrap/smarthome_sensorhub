@@ -14,10 +14,10 @@ class dhthandler{
     public:
         bool infarenheit{false};
 
-        dhthandler(int digitalpin);
-        ~dhthandler();
-        void start();
-        void defineTemp();
-        void defineHumitdity();
+        dhthandler(int digitalpin) ;
+        ~dhthandler() ;
+        void start() ;
+        void defineTemp() ;
+        void defineHumitdity() ;
 
 };

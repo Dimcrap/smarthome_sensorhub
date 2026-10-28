@@ -10,6 +10,7 @@ class pirhandler{
         delay(500);
         noTone(buzzer);
     };
+    
     public:
         pirhandler(int pirsensor,int buzzpin=3):buzzer(buzzpin),senser(pirsensor){
 

@@ -57,6 +57,5 @@ void loop()
     ssd1306_draw_char( 2, 25, '8' );
     ssd1306_display() ;*/
 
-
     delay(500) ;
 }

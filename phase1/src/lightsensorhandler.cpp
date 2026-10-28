@@ -12,7 +12,7 @@ lighsensorhandler::lighsensorhandler(){
 void lighsensorhandler::setup(){
     Wire.begin();
     lightmeter.begin();
-    Serial.println(F("BH1750 Test begin"));
+    Serial.println( F("BH1750 Test begin") );
 };
 
 
