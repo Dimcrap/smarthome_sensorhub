@@ -240,6 +240,12 @@
         "output": ".pio/build/nanoatmega328new/lib70b/Adafruit SSD1306/Adafruit_SSD1306.cpp.o"
     },
     {
+        "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/src/bh1750.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc \"-I.pio/libdeps/nanoatmega328new/Adafruit SSD1306\" \"-I.pio/libdeps/nanoatmega328new/Adafruit GFX Library\" \"-I.pio/libdeps/nanoatmega328new/Adafruit BusIO\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/SPI/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src \"-I.pio/libdeps/nanoatmega328new/DHT sensor library\" \"-I.pio/libdeps/nanoatmega328new/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs src/bh1750.cpp",
+        "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase2",
+        "file": "src/bh1750.cpp",
+        "output": ".pio/build/nanoatmega328new/src/bh1750.cpp.o"
+    },
+    {
         "command": "/home/mamadreza/.platformio-venv/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/src/i2cscanner.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc \"-I.pio/libdeps/nanoatmega328new/Adafruit SSD1306\" \"-I.pio/libdeps/nanoatmega328new/Adafruit GFX Library\" \"-I.pio/libdeps/nanoatmega328new/Adafruit BusIO\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/SPI/src -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/libraries/Wire/src \"-I.pio/libdeps/nanoatmega328new/DHT sensor library\" \"-I.pio/libdeps/nanoatmega328new/Adafruit Unified Sensor\" -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/cores/arduino -I/home/mamadreza/.platformio-venv/packages/framework-arduino-avr/variants/eightanaloginputs src/i2cscanner.cpp",
         "directory": "/home/mamadreza/programming/projects/smarthome_sensorhub/phase2",
         "file": "src/i2cscanner.cpp",
