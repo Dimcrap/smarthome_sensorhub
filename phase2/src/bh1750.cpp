@@ -9,6 +9,7 @@ void bh1750driver::bh1750_init(){
     //set transition for sensor address 
     setmode();
     //check acknowledge '0' is fine
+    setMTreg( default_mtreg );
 }
 
 
@@ -49,22 +50,37 @@ void bh1750driver::setMTreg( byte mtreg ) {
     byte ack = 5 ;
     
     twi_start() ;
-    twi_write( SENSORADDR << 1 );
+    twi_write( SENSORADDR << 1 ) ;
     twi_write( ( 0b01000 << 3 ) | ( mtreg >> 5 ) ) ;
     ack = twi_read_ack() ;
     twi_stop() ;
 
     twi_start() ;
-    twi_write( SENSORADDR << 1 );
-    twi_write( (0b011 << 5) | ( mtreg & 0b11111 ) );
+    twi_write( SENSORADDR << 1 ) ;
+    twi_write( (0b011 << 5) | ( mtreg & 0b11111 ) ) ;
     ack = ack | twi_read_ack() ;
     twi_stop() ;
+
+    twi_start() ;
+    twi_write( SENSORADDR << 1 ) ;
+    twi_write( (uint8_t ) RESULOUTION ) ;
+    ack = ack | twi_read_ack() ;
+    twi_stop() ;
+
+    _delay_ms(50 );
+
+    if( ack != 0 )
+    {
+        Serial.println( "error while setting merssure timer register ") ;
+    }
 
 }; 
 
 
 void bh1750driver::bh1750_readvalue(){
-    //requesting value 
+    float val = -1.0 ;
+    //requesting value by sending send_command  
+    //getting value and divide it by 1.2
     // converting it to lux
 };
 
